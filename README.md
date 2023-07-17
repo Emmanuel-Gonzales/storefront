@@ -1,18 +1,16 @@
-# LAB - Class xx
+# LAB - Class 36
 
-## Project: Project Name Here
+## Project: Store Front
 
-### Author: Student/Group Name
+### Author: Emmanuel Gonzales
 
 ### Problem Domain  
 
-Concise Description of why this app exists
+This lab is made for us to practice using frameworks like vite and react redux, by creating a storefront for a website
 
 ### Links and Resources
 
-- [GitHub Actions ci/cd](http://xyz.com) (when applicable) 
-- [back-end server url](http://xyz.com) (when applicable)
-- [front-end application](http://xyz.com) (when applicable)
+- [Main Deploy](https://codesandbox.io/p/github/Emmanuel-Gonzales/storefront/main?layout=%257B%2522sidebarPanel%2522%253A%2522EXPLORER%2522%252C%2522rootPanelGroup%2522%253A%257B%2522direction%2522%253A%2522horizontal%2522%252C%2522contentType%2522%253A%2522UNKNOWN%2522%252C%2522type%2522%253A%2522PANEL_GROUP%2522%252C%2522id%2522%253A%2522ROOT_LAYOUT%2522%252C%2522panels%2522%253A%255B%257B%2522type%2522%253A%2522PANEL_GROUP%2522%252C%2522contentType%2522%253A%2522UNKNOWN%2522%252C%2522direction%2522%253A%2522vertical%2522%252C%2522id%2522%253A%2522clk68w72h000g356pqrh5sfsg%2522%252C%2522sizes%2522%253A%255B70%252C30%255D%252C%2522panels%2522%253A%255B%257B%2522type%2522%253A%2522PANEL_GROUP%2522%252C%2522contentType%2522%253A%2522EDITOR%2522%252C%2522direction%2522%253A%2522horizontal%2522%252C%2522id%2522%253A%2522EDITOR%2522%252C%2522panels%2522%253A%255B%257B%2522type%2522%253A%2522PANEL%2522%252C%2522contentType%2522%253A%2522EDITOR%2522%252C%2522id%2522%253A%2522clk68w72h000b356pxoo5ydu6%2522%257D%255D%252C%2522sizes%2522%253A%255B100%255D%257D%252C%257B%2522type%2522%253A%2522PANEL_GROUP%2522%252C%2522contentType%2522%253A%2522SHELLS%2522%252C%2522direction%2522%253A%2522horizontal%2522%252C%2522id%2522%253A%2522SHELLS%2522%252C%2522panels%2522%253A%255B%257B%2522type%2522%253A%2522PANEL%2522%252C%2522contentType%2522%253A%2522SHELLS%2522%252C%2522id%2522%253A%2522clk68w72h000f356pmserw0x9%2522%257D%255D%252C%2522sizes%2522%253A%255B100%255D%257D%255D%257D%252C%257B%2522type%2522%253A%2522PANEL_GROUP%2522%252C%2522contentType%2522%253A%2522DEVTOOLS%2522%252C%2522direction%2522%253A%2522vertical%2522%252C%2522id%2522%253A%2522DEVTOOLS%2522%252C%2522panels%2522%253A%255B%257B%2522type%2522%253A%2522PANEL%2522%252C%2522contentType%2522%253A%2522DEVTOOLS%2522%252C%2522id%2522%253A%2522clk68w72h000d356p1s01gkel%2522%257D%255D%252C%2522sizes%2522%253A%255B100%255D%257D%255D%252C%2522sizes%2522%253A%255B50%252C50%255D%257D%252C%2522tabbedPanels%2522%253A%257B%2522clk68w72h000b356pxoo5ydu6%2522%253A%257B%2522tabs%2522%253A%255B%257B%2522id%2522%253A%2522clk68w72h000a356ppbh94b2d%2522%252C%2522mode%2522%253A%2522permanent%2522%252C%2522type%2522%253A%2522FILE%2522%252C%2522filepath%2522%253A%2522%252FREADME.md%2522%257D%255D%252C%2522id%2522%253A%2522clk68w72h000b356pxoo5ydu6%2522%252C%2522activeTabId%2522%253A%2522clk68w72h000a356ppbh94b2d%2522%257D%252C%2522clk68w72h000d356p1s01gkel%2522%253A%257B%2522id%2522%253A%2522clk68w72h000d356p1s01gkel%2522%252C%2522activeTabId%2522%253A%2522clk68wmd4013h356pureb8h8y%2522%252C%2522tabs%2522%253A%255B%257B%2522type%2522%253A%2522TASK_PORT%2522%252C%2522taskId%2522%253A%2522dev%2522%252C%2522port%2522%253A5173%252C%2522id%2522%253A%2522clk68wmd4013h356pureb8h8y%2522%252C%2522mode%2522%253A%2522permanent%2522%252C%2522path%2522%253A%2522%252F%2522%257D%255D%257D%252C%2522clk68w72h000f356pmserw0x9%2522%253A%257B%2522id%2522%253A%2522clk68w72h000f356pmserw0x9%2522%252C%2522activeTabId%2522%253A%2522clk68wjur00s2356p8kldxwvc%2522%252C%2522tabs%2522%253A%255B%257B%2522id%2522%253A%2522clk68w72h000e356pfgot3gbk%2522%252C%2522mode%2522%253A%2522permanent%2522%252C%2522type%2522%253A%2522TERMINAL%2522%252C%2522shellId%2522%253A%2522clk68w77y001agzf1frkk9z15%2522%257D%252C%257B%2522type%2522%253A%2522TASK_LOG%2522%252C%2522taskId%2522%253A%2522dev%2522%252C%2522id%2522%253A%2522clk68wjur00s2356p8kldxwvc%2522%252C%2522mode%2522%253A%2522permanent%2522%257D%255D%257D%257D%252C%2522showDevtools%2522%253Atrue%252C%2522showShells%2522%253Atrue%252C%2522showSidebar%2522%253Atrue%252C%2522sidebarPanelSize%2522%253A15%257D)
 
 ### Collaborators
 
@@ -22,24 +20,18 @@ Concise Description of why this app exists
 
 for now I have none and do not require one
 
-
 #### How to initialize/run your application (where applicable)
 
-- e.g. `npm start`
+- `npm run dev`
 
 #### How to use your library (where applicable)
 
 #### Features / Routes
 
-- Feature One: Details of feature
-- GET : `/hello` - specific route to hit
+- Get products by selecting the category
 
 #### Tests
 
-- How do you run tests?
-- Any tests of note?
-- Describe any tests that you did not complete, skipped, etc
-
 #### UML
 
-Link to an image of the UML for your application and response to events
+![Lab 36 UML](/src/assets/uml-36.png)
